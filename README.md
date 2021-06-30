@@ -1,5 +1,8 @@
 <h1 align="center">
-  <img alt="Daiane Sousa" title="Daiane Sousa" src="https://res.cloudinary.com/djttribbm/image/upload/v1624972648/capa_365a47888f.png?521650.5" />
+   <a href="https://www.daianesousa.tech/" target="_blank">
+    <img alt="Daiane Sousa" title="Daiane Sousa" src="https://res.cloudinary.com/djttribbm/image/upload/v1624972648/capa_365a47888f.png?521650.5" />
+  </a>
+  
   
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-cristinny-sousa-dos-reis-174b16138/)](https://www.linkedin.com/in/daianessousa/) 
   [![Gmail Badge](https://img.shields.io/badge/-daisousa.c@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daisousa.c@gmail.com)](mailto:daisousa.c@gmail.com)
